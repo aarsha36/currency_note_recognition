@@ -41,6 +41,20 @@ currency_note_recognition/
 
 ---
 
+## 🔧 Installation
+
+ 1. Clone the repository
+git clone https://github.com/aarsha36/currency_note_recognition.git
+cd scene-assistant
+2. Create and activate a virtual environment (recommended)
+python -m venv venv
+venv\Scripts\activate      # Windows
+# source venv/bin/activate  # macOS/Linux
+3. Install dependencies
+pip install -r requirements.txt
+
+---
+
 ##🏋️‍♂️ Training the Model
 After placing the dataset, run the training script:
 
@@ -83,7 +97,7 @@ Improve robustness in varying lighting
 ---
 
 ##🙋‍♂️ Author
-Developed by [V S Aarsha]
+Developed by V S Aarsha
 Feel free to reach out for feedback or collaborations!
 
 ---
