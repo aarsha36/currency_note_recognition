@@ -28,7 +28,7 @@ currency_note_recognition/
 💾 Dataset is not included due to size.
 
 Download the Indian currency dataset from this link:
-📎https://drive.google.com/drive/folders/1mEbYYZUJwnm2mtVT0qqo1B7vFdOWRmpK?usp=sharing
+https://drive.google.com/drive/folders/1mEbYYZUJwnm2mtVT0qqo1B7vFdOWRmpK?usp=sharing
 
 Unzip it and place it in the project root folder like this:
 
@@ -75,7 +75,7 @@ Hold the currency note in front of the webcam. The model will display the predic
 ✅ Want to see it in action?
 
 📹 Watch the demo video here
-📎https://drive.google.com/drive/folders/1mEbYYZUJwnm2mtVT0qqo1B7vFdOWRmpK?usp=sharing
+https://drive.google.com/drive/folders/1mEbYYZUJwnm2mtVT0qqo1B7vFdOWRmpK?usp=sharing
 
 ---
 
